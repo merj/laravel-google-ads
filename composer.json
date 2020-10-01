@@ -1,7 +1,7 @@
 {
-  "name": "spotonlive/laravel-google-ads",
+  "name": "merj/laravel-google-ads",
   "type": "library",
-  "description": "Google Ads API for Laravel",
+  "description": "Google Ads API for Laravel. Forked from spotonlive/laravel-google-ads",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "keywords": [
@@ -17,6 +17,11 @@
       "name": "Nikolaj Petersen",
       "email": "nikolaj.lovenhardt@gmail.com",
       "homepage": "http://github.com/nikolajlovenhardt"
+    },
+    {
+      "name": "Tom Keyte",
+      "email": "tom.keyte@merj.com",
+      "homepage": "https://merj.com"
     }
   ],
   "require": {
